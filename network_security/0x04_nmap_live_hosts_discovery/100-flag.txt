@@ -1,2 +1,1 @@
-228/udp open  mdns    Lexmark - Holberton Sec Lab - b7e520d7138bda1e585997a78a811bbb - printer mdns
-Service Info: Device: printer; CPE: cpe:/h:lexmark:-_holberton_sec_lab_-_b7e520d7138bda1e585997a78a811bbb_-
+b7e520d7138bda1e585997a78a811bb
